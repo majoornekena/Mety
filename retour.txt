@@ -1,0 +1,11 @@
+{
+    vehicule:[
+        {id,
+    marque,
+    kilometrage[{id,date,debut,fin}]}
+    ]
+
+    token:[
+    login{id,email},
+    value]
+}

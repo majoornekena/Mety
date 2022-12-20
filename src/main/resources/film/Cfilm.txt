@@ -1,0 +1,251 @@
+C:\Program Files\Wondershare\UniConverter\UploadRes\facebookads\test\misc\video.mp4
+C:\ProgramData\Anaconda3\Lib\site-packages\imageio\resources\images\cockatoo.mp4
+C:\ProgramData\Anaconda3\Lib\site-packages\imageio\resources\images\realshort.mp4
+C:\ProgramData\Anaconda3\pkgs\imageio-2.9.0-py_0\site-packages\imageio\resources\images\cockatoo.mp4
+C:\ProgramData\Anaconda3\pkgs\imageio-2.9.0-py_0\site-packages\imageio\resources\images\realshort.mp4
+C:\Users\All Users\Anaconda3\Lib\site-packages\imageio\resources\images\cockatoo.mp4
+C:\Users\All Users\Anaconda3\Lib\site-packages\imageio\resources\images\realshort.mp4
+C:\Users\All Users\Anaconda3\pkgs\imageio-2.9.0-py_0\site-packages\imageio\resources\images\cockatoo.mp4
+C:\Users\All Users\Anaconda3\pkgs\imageio-2.9.0-py_0\site-packages\imageio\resources\images\realshort.mp4
+C:\Users\hasina\AppData\Local\Android\Sdk\emulator\resources\macroPreviews\Reset_position.mp4
+C:\Users\hasina\AppData\Local\Android\Sdk\emulator\resources\macroPreviews\Track_horizontal_plane.mp4
+C:\Users\hasina\AppData\Local\Android\Sdk\emulator\resources\macroPreviews\Track_vertical_plane.mp4
+C:\Users\hasina\AppData\Local\Android\Sdk\emulator\resources\macroPreviews\Walk_to_image_room.mp4
+C:\Users\hasina\AppData\Local\Packages\Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe\LocalState\vungleDiskCache\73ef477a-053e-4181-b674-28130d0f73e8.mp4
+C:\Users\hasina\AppData\Local\SageMath 9.2\runtime\opt\sagemath-9.2\local\lib\python3.7\site-packages\sage\ext_data\doctest\rich_output\example.avi
+C:\Users\hasina\AppData\Local\SageMath 9.2\runtime\opt\sagemath-9.2\local\lib\python3.7\site-packages\sage\ext_data\doctest\rich_output\example.mkv
+C:\Users\hasina\AppData\Local\SageMath 9.2\runtime\opt\sagemath-9.2\local\lib\python3.7\site-packages\sage\ext_data\doctest\rich_output\example.mp4
+C:\Users\hasina\AppData\Local\SageMath 9.2\runtime\opt\sagemath-9.2\local\share\gap\pkg\SmallGrp-1.3\id2\id256ra.avi
+C:\Users\hasina\AppData\Local\SageMath 9.2\runtime\opt\sagemath-9.2\src\sage\ext_data\doctest\rich_output\example.avi
+C:\Users\hasina\AppData\Local\SageMath 9.2\runtime\opt\sagemath-9.2\src\sage\ext_data\doctest\rich_output\example.mkv
+C:\Users\hasina\AppData\Local\SageMath 9.2\runtime\opt\sagemath-9.2\src\sage\ext_data\doctest\rich_output\example.mp4
+C:\Users\hasina\Documents\Baovola\Templates\Powerpoint\Wie erstelle ich einen Pinseleffekt in PowerPoint_-720p.mp4
+C:\Users\hasina\Documents\Fianarana\Java\Fini\hasina\Arduino Bluetooth Control Robot Car _ Java Institute\Arduino Bluetooth Control Robot Car _ Java Institute (720p_30fps_H264-192kbit_AAC).mp4
+C:\Users\hasina\Documents\Fianarana\Java\Fini\hasina\Bluetooth in Java (Paired Devices)\Bluetooth in Java (Paired Devices) (720p_30fps_H264-192kbit_AAC).mp4
+C:\Users\hasina\Documents\Fianarana\Java\Fini\hasina\control a Servo Motor with Bluetooth\control a Servo Motor with Bluetooth (1080p_30fps_H264-128kbit_AAC).mp4
+C:\Users\hasina\Documents\Fianarana\Java\Fini\hasina\Implementation of bluetooth in java\Implementation of bluetooth in java (320p_30fps_H264-96kbit_AAC).mp4
+C:\Users\hasina\Documents\Fianarana\Java\Fini\hasina\Send Data from a PC to an Arduino with Java\Send Data from a PC to an Arduino with Java (1080p_30fps_H264-128kbit_AAC).mp4
+C:\Users\hasina\Documents\Fianarana\Java\Fini\Pozy Video\Pozy_Video\files\Sia-HeliumLyrics-1.mp4
+C:\Users\hasina\Documents\Fianarana\Java\Fini\Pozy Video\Pozy_Video\files\SLANDER-LoveIsGoneft.DylanMatthewAcoustic-Lyrics-1.mp4
+C:\Users\hasina\Documents\Nicepage\Site_132112611\files\10000000_230871275072969_2214314101437069528_n.mp4
+C:\Users\hasina\Documents\Nicepage\Site_2423106879\files\LouisArmstrong-Whatawonderfulworld1967-1.mp4
+C:\Users\hasina\Documents\Nicepage\Site_2423106879\files\LouisArmstrong-Whatawonderfulworld1967.mp4
+C:\Users\hasina\Documents\Nicepage\Site_2423106879\files\Sia-HeliumLyrics-1.mp4
+C:\Users\hasina\Documents\Nicepage\Site_2423106879\files\Sia-HeliumLyrics.mp4
+C:\Users\hasina\Documents\Nicepage\Site_2423106879\files\SkylarGrey-LoveTheWayYouLieLyrics.mp4
+C:\Users\hasina\Documents\Nicepage\Site_2423106879\files\SLANDER-LoveIsGoneft.DylanMatthewAcoustic-Lyrics-1.mp4
+C:\Users\hasina\Documents\Nicepage\Site_2423106879\files\SLANDER-LoveIsGoneft.DylanMatthewAcoustic-Lyrics.mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\AGENCE DEUX - Le digital rÇvolutionne le bien-àtre au travail.mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\Bien àtre au travail.mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\Bien-àtre au travail.mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\Bonheur au Travail _ concrätement, comment on fait .mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\Conjuguer qualitÇ de vie au travail et performance de l'entreprise.mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\Digital _ bien-àtre, efficacitÇ au travail - Patricia Waldron-Werner, DRH d'Oran.mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\FAQ 2?? _ Comment PrÇsenter un Projet ou une IdÇe efficacement en 3 minutes.mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\Le bien àtre au travail, c'est quoi .mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\Le bien-àtre au travail _ simple, pratique  .mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\Le bien-àtre au travail _ un levier de performance [Arnaud Lacan].mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\PrÇvention des risques psycho-sociaux (RPS) - le rìle du Service de SantÇ au Tra.mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\Reportage sur le Bien-“tre au travail - France 2 - TUBAO.mp4
+C:\Users\hasina\Documents\Perso\Hackathon\Bien Etre au travail\video\WEBINAR _ Manager avec le DISC.mp4
+C:\Users\hasina\Documents\python\openCV\firstProject\Videos\wonderful.mp4
+C:\Users\hasina\Downloads\10000000_144298478088868_5617170138179518062_n.mp4
+C:\Users\hasina\Downloads\277797487_112514644746422_8006019945417582119_n.mp4
+C:\Users\hasina\Downloads\278145342_405029357794107_4523444224290643822_n.mp4
+C:\Users\hasina\Downloads\278376059_1067067697558254_4413149425483390182_n.mp4
+C:\Users\hasina\Downloads\But what is a Fourier series From heat flow to drawing with circles _ DE4.mp4
+C:\Users\hasina\Downloads\C'est quoi une courbe paramÇtrÇe .mp4
+C:\Users\hasina\Downloads\Courbes - partie 1 _ notions de base.mp4
+C:\Users\hasina\Downloads\Courbes - partie 2 _ tangente (1).mp4
+C:\Users\hasina\Downloads\Courbes - partie 2 _ tangente.mp4
+C:\Users\hasina\Downloads\Courbes - partie 4 _ plan d'Çtude.mp4
+C:\Users\hasina\Downloads\CrÇer son business plan gratuitement.mp4
+C:\Users\hasina\Downloads\Elon Musk On The Big Bang Theory.mp4
+C:\Users\hasina\Downloads\Elon Musk's Legendary Commencement Speech.mp4
+C:\Users\hasina\Downloads\EQUATIONS DIFFERENTIELLES DU PREMIER ORDRE. PARTIE I.mp4
+C:\Users\hasina\Downloads\Exercice 1 (Droites et plans) [01956].mp4
+C:\Users\hasina\Downloads\MongoDB & Node.js_ Connecting & CRUD Operations (Part 1 of 4).mp4
+C:\Users\hasina\Downloads\Responsive Side Navigation Bar in HTML CSS And JavaScript _ Dashboard Sidebar Me.mp4
+C:\Users\hasina\Downloads\êquations diffÇrentielles - partie 2 linÇaire du premier ordre.mp4
+C:\Users\hasina\Downloads\êQUATIONS DIFFêRENTIELLES DU PREMIER ORDRE. PARTIE II.mp4
+C:\Users\hasina\Downloads\êQUATIONS DIFFêRENTIELLES LINêAIRES HOMOG‘NES DU SECOND ORDRE.mp4
+C:\Users\hasina\Downloads\Video\Bill Nye Answers Science Questions From Twitter - Tech Support - WIRED.mp4
+C:\Users\hasina\Downloads\Video\Change User.mp4
+C:\Users\hasina\Downloads\Video\haha.mp4
+C:\Users\hasina\Downloads\Video\HOHO.mp4
+C:\Users\hasina\Downloads\Video\jfx.mp4
+C:\Users\hasina\Downloads\Video\SQL Connexion.mp4
+C:\Users\hasina\Downloads\Video\videoplayback.mp4
+C:\Users\hasina\Downloads\Video\videoplayback[10].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[11].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[12].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[13].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[14].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[15].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[16].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[17].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[18].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[19].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[1].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[20].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[21].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[22].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[23].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[2].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[3].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[4].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[5].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[6].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[7].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[8].mp4
+C:\Users\hasina\Downloads\Video\videoplayback[9].mp4
+C:\Users\hasina\Videos\2022-06-27 12-53-08-1.mp4
+C:\Users\hasina\Videos\etu001666-Rivonandrasana-Hasina-S4-prom14B.mp4
+C:\Users\hasina\Videos\Type.mp4
+C:\Users\hasina\Videos\Variablecondition-1.mp4
+C:\Users\hasina\Videos\bdd\ETU001666_RIVONANDRASANA_Hasina_Juniolah.mkv
+C:\Users\hasina\Videos\Cours Perso\php\0-introduction\video\Variablecondition.mp4
+C:\Users\hasina\Videos\Cours Perso\php\1-condition\video\Condition.mp4
+C:\Users\hasina\Videos\Cours Perso\php\2-Tableau\Video\2022-08-17 05-44-41.mkv
+C:\Users\hasina\Videos\Cours Perso\php\2-Tableau\Video\2022-08-17 05-47-45.mkv
+C:\Users\hasina\Videos\Cours Perso\php\2-Tableau\Video\2022-08-29 06-20-54.mkv
+C:\Users\hasina\Videos\Cours Perso\php\2-Tableau\Video\Tableau.mp4
+C:\Users\hasina\Videos\Cours Perso\postgres\1-Introduction\videos\Introduction.mp4
+C:\Users\hasina\Videos\Cours Perso\postgres\2-Types\videos\type.mkv
+C:\Users\hasina\Videos\Cours Perso\postgres\3-Condition\videos\Condition.mkv
+C:\Users\hasina\Videos\Cours Perso\postgres\4-OrderBy\videos\orderBy.mkv
+C:\Users\hasina\Videos\Cours Perso\postgres\5-GroupBy\Video\grp.mkv
+C:\Users\hasina\Videos\Cours Perso\postgres\5-GroupBy\Video\grp.mp4
+C:\Users\hasina\Videos\Cours Perso\postgres\6-Contrainte\video\2022-06-15 05-37-10.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 06-52-09.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 11-39-16.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-10-32.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-19-07.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-20-04.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-20-38.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-21-07.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-22-14.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-22-53.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-24-19.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-26-18.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-28-47.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-32-52.mkv
+C:\Users\hasina\Videos\hteboka\2022-08-29 23-34-11.mkv
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E01.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E02.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E03.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E04.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E05.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E06.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E07.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E08.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E09.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E10.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E11.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E12.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E13.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E14.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E15.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E16.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E17.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E18.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E19.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S01\Prodigal.Son.S01E20.FiNAL.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E01.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E02.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E03.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E04.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E05.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E06.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E07.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E08.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E09.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E10.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E11.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E12.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Prodigal.Son.S02\Prodigal.Son.S02E13.FRENCH.avi
+C:\Users\hasina\Videos\Serie\The Sandman 2022 S01\The.Sandman.S01E01.FRENCH.WEBRip.x264-EXTREME.mkv
+C:\Users\hasina\Videos\Serie\The Sandman 2022 S01\The.Sandman.S01E02.FRENCH.WEBRip.x264-EXTREME.mkv
+C:\Users\hasina\Videos\Serie\The Sandman 2022 S01\The.Sandman.S01E03.FRENCH.WEBRip.x264-EXTREME.mkv
+C:\Users\hasina\Videos\Serie\The Sandman 2022 S01\The.Sandman.S01E04.FRENCH.WEBRip.x264-EXTREME.mkv
+C:\Users\hasina\Videos\Serie\The Sandman 2022 S01\The.Sandman.S01E05.FRENCH.WEBRip.x264-EXTREME.mkv
+C:\Users\hasina\Videos\Serie\The Sandman 2022 S01\The.Sandman.S01E06.FRENCH.WEBRip.x264-EXTREME.mkv
+C:\Users\hasina\Videos\Serie\The Sandman 2022 S01\The.Sandman.S01E07.FRENCH.WEBRip.x264-EXTREME.mkv
+C:\Users\hasina\Videos\Serie\The Sandman 2022 S01\The.Sandman.S01E08.FRENCH.WEBRip.x264-EXTREME.mkv
+C:\Users\hasina\Videos\Serie\The Sandman 2022 S01\The.Sandman.S01E09.FRENCH.WEBRip.x264-EXTREME.mkv
+C:\Users\hasina\Videos\Serie\The Sandman 2022 S01\The.Sandman.S01E10.FRENCH.WEBRip.x264-EXTREME.mkv
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E01.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E02.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E03.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E04.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E05.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E06.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E07.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E08.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E09.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E10.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E11.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\1\The.Vampire.Diaries.S04E12.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\2\The.Vampire.Diaries.S04E13.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\2\The.Vampire.Diaries.S04E14.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\2\The.Vampire.Diaries.S04E15.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\2\The.Vampire.Diaries.S04E16.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\2\The.Vampire.Diaries.S04E17.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\2\The.Vampire.Diaries.S04E18.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\2\The.Vampire.Diaries.S04E19.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\2\The.Vampire.Diaries.S04E20.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\2\The.Vampire.Diaries.S04E21.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\2\The.Vampire.Diaries.S04E22.FRENCH.avi
+C:\Users\hasina\Videos\Serie\Vampires diaries s4\2\The.Vampire.Diaries.S04E23.FINAL.FRENCH.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E01.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E02.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E03.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E04.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E05.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E06.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E07.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E08.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E09.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E10.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E11.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E12.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E13.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E14.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E15.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E16.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E17.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E18.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E19.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E20.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E21.avi
+C:\Users\hasina\Videos\Serie\vampires diaries s5\The Vampire Diaries S05E22.FINAL.avi
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1620_none_8f5525c64c5c8943\f\edrcalibration.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1620_none_8f5525c64c5c8943\f\hdrsample.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1620_none_8f5525c64c5c8943\f\sdrsample.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1620_none_8f5525c64c5c8943\r\edrcalibration.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1620_none_8f5525c64c5c8943\r\hdrsample.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1766.1.9\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1620_none_8f5525c64c5c8943\r\sdrsample.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1826.1.8\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1806_none_8f3cfcaa4c6f283d\f\edrcalibration.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1826.1.8\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1806_none_8f3cfcaa4c6f283d\f\hdrsample.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1826.1.8\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1806_none_8f3cfcaa4c6f283d\f\sdrsample.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1826.1.8\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1806_none_8f3cfcaa4c6f283d\r\edrcalibration.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1826.1.8\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1806_none_8f3cfcaa4c6f283d\r\hdrsample.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1826.1.8\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1806_none_8f3cfcaa4c6f283d\r\sdrsample.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1889.1.16\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1865_none_8f43152e4c69a6a6\f\edrcalibration.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1889.1.16\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1865_none_8f43152e4c69a6a6\f\hdrsample.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1889.1.16\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1865_none_8f43152e4c69a6a6\f\sdrsample.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1889.1.16\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1865_none_8f43152e4c69a6a6\r\edrcalibration.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1889.1.16\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1865_none_8f43152e4c69a6a6\r\hdrsample.mkv
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1889.1.16\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1865_none_8f43152e4c69a6a6\r\sdrsample.mkv
+C:\Windows\SystemResources\Windows.UI.SettingsAppThreshold\SystemSettings\Assets\EdrCalibration.mkv
+C:\Windows\SystemResources\Windows.UI.SettingsAppThreshold\SystemSettings\Assets\HDRSample.mkv
+C:\Windows\SystemResources\Windows.UI.SettingsAppThreshold\SystemSettings\Assets\SDRSample.mkv
+C:\Windows\WinSxS\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1620_none_8f5525c64c5c8943\EdrCalibration.mkv
+C:\Windows\WinSxS\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1620_none_8f5525c64c5c8943\HDRSample.mkv
+C:\Windows\WinSxS\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1620_none_8f5525c64c5c8943\SDRSample.mkv
+C:\Windows\WinSxS\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1806_none_8f3cfcaa4c6f283d\EdrCalibration.mkv
+C:\Windows\WinSxS\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1806_none_8f3cfcaa4c6f283d\HDRSample.mkv
+C:\Windows\WinSxS\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1806_none_8f3cfcaa4c6f283d\SDRSample.mkv
+C:\Windows\WinSxS\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1865_none_8f43152e4c69a6a6\EdrCalibration.mkv
+C:\Windows\WinSxS\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1865_none_8f43152e4c69a6a6\HDRSample.mkv
+C:\Windows\WinSxS\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.1865_none_8f43152e4c69a6a6\SDRSample.mkv

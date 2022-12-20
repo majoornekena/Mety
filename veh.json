@@ -1,0 +1,31 @@
+{
+
+    "token":
+        {
+            "login":        {
+                "id":1,
+                "email":"as@gmail.com"
+            },
+            "value":"adsdjo3f1e"
+        },
+
+    "vehicule":
+        {
+            "id":1,
+            "marque":"Nissan",
+            "kilometrage":[
+                {
+                    "id":1,
+                    "date":"2001-12-25",
+                    "debut":100000,
+                    "fin":100100
+                },
+                {
+                    "id":2,
+                    "date":"2001-12-26",
+                    "debut":100000,
+                    "fin":100200
+                }
+            ]
+        }
+}
